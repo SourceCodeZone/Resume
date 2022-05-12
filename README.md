@@ -1,6 +1,6 @@
 Templet 1
 
-![Alt text](./Images/Screenshot from 2022-05-12 15-14-06.png?raw=true "Title")
+![Alt text](https://github.com/SourceCodeZone/Resume/blob/main/Images/Screenshot%20from%202022-05-12%2015-14-06.png)
 
 Templet 2
 
